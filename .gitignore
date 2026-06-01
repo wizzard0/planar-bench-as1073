@@ -1,0 +1,11 @@
+.idea
+.aider*
+.env
+/out/results.sqlite
+/out/results.sqlite-shm
+/out/results.sqlite-wal
+/out/web/
+/tex/planarbench-arxiv.zip
+bun.lock
+bun.lockb
+package-lock.json

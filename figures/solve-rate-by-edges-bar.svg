@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" font-family="system-ui, sans-serif">
+  <rect width="640" height="320" fill="white"/>
+  <text x="320" y="24" text-anchor="middle" font-size="15" font-weight="600" fill="#222">Mean Score by Edge Count</text>
+  <text x="320" y="312" text-anchor="middle" font-size="12" fill="#666">Edge count</text>
+  <text x="16" y="160" text-anchor="middle" font-size="12" fill="#666" transform="rotate(-90 16 160)">Score (across all models)</text>
+  <line x1="70" y1="260" x2="610" y2="260" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="264" text-anchor="end" font-size="11" fill="#666">0%</text>
+  <line x1="70" y1="216" x2="610" y2="216" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="220" text-anchor="end" font-size="11" fill="#666">20%</text>
+  <line x1="70" y1="172" x2="610" y2="172" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="176" text-anchor="end" font-size="11" fill="#666">40%</text>
+  <line x1="70" y1="128" x2="610" y2="128" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="132" text-anchor="end" font-size="11" fill="#666">60%</text>
+  <line x1="70" y1="84" x2="610" y2="84" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="88" text-anchor="end" font-size="11" fill="#666">80%</text>
+  <line x1="70" y1="40" x2="610" y2="40" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="62" y="44" text-anchor="end" font-size="11" fill="#666">100%</text>
+  <line x1="70" y1="40" x2="70" y2="260" stroke="#333" stroke-width="1"/>
+  <line x1="70" y1="260" x2="610" y2="260" stroke="#333" stroke-width="1"/>
+  <rect x="72" y="57.522123893805315" width="41" height="202.47787610619469" fill="hsl(195, 70%, 47%)" rx="2"/>
+  <text x="92.5" y="51.522123893805315" text-anchor="middle" font-size="11" fill="#333">92%*</text>
+  <text x="92.5" y="276" text-anchor="middle" font-size="11" fill="#555">1</text>
+  <text x="92.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=1</text>
+  <rect x="117" y="76.66666666666666" width="41" height="183.33333333333334" fill="hsl(180, 70%, 49%)" rx="2"/>
+  <text x="137.5" y="70.66666666666666" text-anchor="middle" font-size="11" fill="#333">83%*</text>
+  <text x="137.5" y="276" text-anchor="middle" font-size="11" fill="#555">2</text>
+  <text x="137.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=1</text>
+  <rect x="162" y="97.92075163398695" width="41" height="162.07924836601305" fill="hsl(165, 70%, 51%)" rx="2"/>
+  <line x1="182.5" y1="60.2736643685287" x2="182.5" y2="135.56783889944518" stroke="#444" stroke-width="1.2"/>
+  <line x1="176.5" y1="60.2736643685287" x2="188.5" y2="60.2736643685287" stroke="#444" stroke-width="1.2"/>
+  <line x1="176.5" y1="135.56783889944518" x2="188.5" y2="135.56783889944518" stroke="#444" stroke-width="1.2"/>
+  <text x="182.5" y="54.2736643685287" text-anchor="middle" font-size="11" fill="#333">74%</text>
+  <text x="182.5" y="276" text-anchor="middle" font-size="11" fill="#555">3</text>
+  <text x="182.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=3</text>
+  <rect x="207" y="138.01785714285714" width="41" height="121.98214285714286" fill="hsl(150, 70%, 53%)" rx="2"/>
+  <line x1="227.5" y1="113.19804449247641" x2="227.5" y2="162.83766979323786" stroke="#444" stroke-width="1.2"/>
+  <line x1="221.5" y1="113.19804449247641" x2="233.5" y2="113.19804449247641" stroke="#444" stroke-width="1.2"/>
+  <line x1="221.5" y1="162.83766979323786" x2="233.5" y2="162.83766979323786" stroke="#444" stroke-width="1.2"/>
+  <text x="227.5" y="107.19804449247641" text-anchor="middle" font-size="11" fill="#333">55%</text>
+  <text x="227.5" y="276" text-anchor="middle" font-size="11" fill="#555">4</text>
+  <text x="227.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=5</text>
+  <rect x="252" y="156.2153379652804" width="41" height="103.7846620347196" fill="hsl(135, 70%, 55%)" rx="2"/>
+  <line x1="272.5" y1="147.87792997873754" x2="272.5" y2="164.55274595182328" stroke="#444" stroke-width="1.2"/>
+  <line x1="266.5" y1="147.87792997873754" x2="278.5" y2="147.87792997873754" stroke="#444" stroke-width="1.2"/>
+  <line x1="266.5" y1="164.55274595182328" x2="278.5" y2="164.55274595182328" stroke="#444" stroke-width="1.2"/>
+  <text x="272.5" y="141.87792997873754" text-anchor="middle" font-size="11" fill="#333">47%</text>
+  <text x="272.5" y="276" text-anchor="middle" font-size="11" fill="#555">5</text>
+  <text x="272.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=12</text>
+  <rect x="297" y="178.00216229813128" width="41" height="81.99783770186873" fill="hsl(120, 70%, 57%)" rx="2"/>
+  <line x1="317.5" y1="167.22939352963533" x2="317.5" y2="188.77493106662718" stroke="#444" stroke-width="1.2"/>
+  <line x1="311.5" y1="167.22939352963533" x2="323.5" y2="167.22939352963533" stroke="#444" stroke-width="1.2"/>
+  <line x1="311.5" y1="188.77493106662718" x2="323.5" y2="188.77493106662718" stroke="#444" stroke-width="1.2"/>
+  <text x="317.5" y="161.22939352963533" text-anchor="middle" font-size="11" fill="#333">37%</text>
+  <text x="317.5" y="276" text-anchor="middle" font-size="11" fill="#555">6</text>
+  <text x="317.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=26</text>
+  <rect x="342" y="198.3258371554317" width="41" height="61.6741628445683" fill="hsl(105, 70%, 59%)" rx="2"/>
+  <line x1="362.5" y1="190.42480005320022" x2="362.5" y2="206.2268742576632" stroke="#444" stroke-width="1.2"/>
+  <line x1="356.5" y1="190.42480005320022" x2="368.5" y2="190.42480005320022" stroke="#444" stroke-width="1.2"/>
+  <line x1="356.5" y1="206.2268742576632" x2="368.5" y2="206.2268742576632" stroke="#444" stroke-width="1.2"/>
+  <text x="362.5" y="184.42480005320022" text-anchor="middle" font-size="11" fill="#333">28%</text>
+  <text x="362.5" y="276" text-anchor="middle" font-size="11" fill="#555">7</text>
+  <text x="362.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=39</text>
+  <rect x="387" y="222.5416722367418" width="41" height="37.45832776325822" fill="hsl(90, 70%, 61%)" rx="2"/>
+  <line x1="407.5" y1="215.86182711165955" x2="407.5" y2="229.22151736182403" stroke="#444" stroke-width="1.2"/>
+  <line x1="401.5" y1="215.86182711165955" x2="413.5" y2="215.86182711165955" stroke="#444" stroke-width="1.2"/>
+  <line x1="401.5" y1="229.22151736182403" x2="413.5" y2="229.22151736182403" stroke="#444" stroke-width="1.2"/>
+  <text x="407.5" y="209.86182711165955" text-anchor="middle" font-size="11" fill="#333">17%</text>
+  <text x="407.5" y="276" text-anchor="middle" font-size="11" fill="#555">8</text>
+  <text x="407.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=43</text>
+  <rect x="432" y="240.98106261912397" width="41" height="19.018937380876018" fill="hsl(75, 70%, 63%)" rx="2"/>
+  <line x1="452.5" y1="235.60757717652135" x2="452.5" y2="246.35454806172663" stroke="#444" stroke-width="1.2"/>
+  <line x1="446.5" y1="235.60757717652135" x2="458.5" y2="235.60757717652135" stroke="#444" stroke-width="1.2"/>
+  <line x1="446.5" y1="246.35454806172663" x2="458.5" y2="246.35454806172663" stroke="#444" stroke-width="1.2"/>
+  <text x="452.5" y="229.60757717652135" text-anchor="middle" font-size="11" fill="#333">9%</text>
+  <text x="452.5" y="276" text-anchor="middle" font-size="11" fill="#555">9</text>
+  <text x="452.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=35</text>
+  <rect x="477" y="248.14423276214075" width="41" height="11.85576723785926" fill="hsl(60, 70%, 65%)" rx="2"/>
+  <line x1="497.5" y1="241.7826176268159" x2="497.5" y2="254.5058478974656" stroke="#444" stroke-width="1.2"/>
+  <line x1="491.5" y1="241.7826176268159" x2="503.5" y2="241.7826176268159" stroke="#444" stroke-width="1.2"/>
+  <line x1="491.5" y1="254.5058478974656" x2="503.5" y2="254.5058478974656" stroke="#444" stroke-width="1.2"/>
+  <text x="497.5" y="235.7826176268159" text-anchor="middle" font-size="11" fill="#333">5%</text>
+  <text x="497.5" y="276" text-anchor="middle" font-size="11" fill="#555">10</text>
+  <text x="497.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=21</text>
+  <rect x="522" y="256.2995674264959" width="41" height="3.7004325735041017" fill="hsl(45, 70%, 67%)" rx="2"/>
+  <line x1="542.5" y1="254.089001497239" x2="542.5" y2="258.51013335575277" stroke="#444" stroke-width="1.2"/>
+  <line x1="536.5" y1="254.089001497239" x2="548.5" y2="254.089001497239" stroke="#444" stroke-width="1.2"/>
+  <line x1="536.5" y1="258.51013335575277" x2="548.5" y2="258.51013335575277" stroke="#444" stroke-width="1.2"/>
+  <text x="542.5" y="248.089001497239" text-anchor="middle" font-size="11" fill="#333">2%</text>
+  <text x="542.5" y="276" text-anchor="middle" font-size="11" fill="#555">11</text>
+  <text x="542.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=10</text>
+  <rect x="567" y="257.60812425328555" width="41" height="2.3918757467144567" fill="hsl(30, 70%, 69%)" rx="2"/>
+  <line x1="587.5" y1="257.55660692951017" x2="587.5" y2="257.65964157706094" stroke="#444" stroke-width="1.2"/>
+  <line x1="581.5" y1="257.55660692951017" x2="593.5" y2="257.55660692951017" stroke="#444" stroke-width="1.2"/>
+  <line x1="581.5" y1="257.65964157706094" x2="593.5" y2="257.65964157706094" stroke="#444" stroke-width="1.2"/>
+  <text x="587.5" y="251.55660692951017" text-anchor="middle" font-size="11" fill="#333">1%</text>
+  <text x="587.5" y="276" text-anchor="middle" font-size="11" fill="#555">12</text>
+  <text x="587.5" y="290" text-anchor="middle" font-size="9" fill="#999">n=3</text>
+</svg>
